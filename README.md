@@ -22,7 +22,6 @@ Milad Soltany (Soltany.m.99@gmail.com)\
 Abbas Omidi  (abbasomidi77@gmail.com)\
 Amirhossein Heidarian (amirhossein4633@gmail.com)
 
-![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Capture.PNG)
 
 feel free to reach out to us.
 
