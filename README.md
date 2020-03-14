@@ -17,13 +17,20 @@ The problem and the datasets are similar to this [kaggle](https://www.kaggle.com
 You can chceck the jupyter notebook and see the algorithms and preprocessing we had done.
 
 # Our team (March 2020):
-Milad Soltany (Soltany.m.99@gmail.com)   
-Abbas Omidi  (abbasomidi77@gmail.com)   
-Amirhossein Heidarian (amirhossein4633@gmail.com)   
+Milad Soltany (Soltany.m.99@gmail.com) 
+Abbas Omidi  (abbasomidi77@gmail.com)  
+Amirhossein Heidarian (amirhossein4633@gmail.com)  
+feel free to reach out to us.
 
 # What we did.
 We tried out many different models and algorithms.
 What worked the best was random forest with 400 estimators and max_depth of 15, you can check the preproccesings and features we extracted.
-feel free to reach out to us.
 
-best.
+## What you find in this repo
+1. The final notebook.
+2. A notebook with a lot of trials which you probably won't make sense of!
+3. Another notebook with a lot of trials which you probably won't make sense of!
+So I suggest just look at the final notebook :)
+
+Best.
+Team Pandas.
