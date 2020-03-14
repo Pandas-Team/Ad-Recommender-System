@@ -20,7 +20,9 @@ You can chceck the jupyter notebook and see the algorithms and preprocessing we 
 Team **Pandas**\
 Milad Soltany (Soltany.m.99@gmail.com)\
 Abbas Omidi  (abbasomidi77@gmail.com)\
-Amirhossein Heidarian (amirhossein4633@gmail.com)\
+Amirhossein Heidarian (amirhossein4633@gmail.com)
+
+![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Capture.PNG)
 
 feel free to reach out to us.
 
@@ -34,5 +36,7 @@ What worked the best was random forest with 400 estimators and max_depth of 15, 
 3. Another notebook with a lot of trials which you probably won't make sense of!
 So I suggest just look at the final notebook :)
 
-Best.
-Team Pandas.
+Best.\
+Team Pandas.\
+
+![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Capture.PNG)
