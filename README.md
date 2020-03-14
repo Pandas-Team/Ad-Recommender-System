@@ -1,5 +1,9 @@
 # Data-Days-2020
 ## Ranked the 3rd among 121 teams.
+1153 Contestants   
+121 Teams  
+86 Universities  
+
 
 # Introduction
 The 2020 Data Days Competition held at Sharif university of technology.
