@@ -11,6 +11,7 @@ Sharif University of Technology, Tehran, Iran.
 The 2020 Data Days Competition held at Sharif university of technology.
 [The website link](https://datadays.sharif.edu)
 [The link to the documentation](https://docs.google.com/document/d/1ov2xxVM1ZBHk2K3RJqDM2A-9xnyHlfh9dpCY5p_F_L8/edit#)
+[The link to the dataset](https://drive.google.com/file/d/14szOHDbSmd17DXn6Iypb_NU5Ck3rktIX/view)
 You are given a dataset of 9 csv files and you are expected to sort adIds that are most likely to be clicked on by a certain user.
 The problem and the datasets are similar to this [kaggle](https://www.kaggle.com/c/outbrain-click-prediction/data) competiton.
 
@@ -36,6 +37,6 @@ What worked the best was random forest with 400 estimators and max_depth of 15, 
 So I suggest just look at the final notebook :)
 
 Best.\
-Team Pandas.\
+Team Pandas.
 
 ![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Capture.PNG)
