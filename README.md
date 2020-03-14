@@ -1,4 +1,6 @@
 # Data-Days-2020
+February and March of 2020.
+Sharif University of Technology, Tehran, Iran.
 ## Ranked the 3rd among 121 teams.
 1153 Contestants   
 121 Teams  
@@ -17,6 +19,11 @@ You can chceck the jupyter notebook and see the algorithms and preprocessing we 
 # Our team (March 2020):
 Milad Soltany (Soltany.m.99@gmail.com)   
 Abbas Omidi  (abbasomidi77@gmail.com)   
-Amirhossein Heidarian (amirhossein4633)   
+Amirhossein Heidarian (amirhossein4633@gmail.com)   
 
+# What we did.
+We tried out many different models and algorithms.
+What worked the best was random forest with 400 estimators and max_depth of 15, you can check the preproccesings and features we extracted.
+feel free to reach out to us.
 
+best.
