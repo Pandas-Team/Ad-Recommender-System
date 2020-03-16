@@ -1,7 +1,7 @@
 # Data-Days-2020
 February and March of 2020.
 Sharif University of Technology, Tehran, Iran.
-## Ranked the 3rd among 121 teams.
+## Ranked the 2nd among 121 teams.
 1153 Contestants|
 121 Teams\
 86 Universities
@@ -39,4 +39,4 @@ So I suggest just look at the final notebook :)
 Best.\
 Team Pandas.
 
-![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Capture.PNG)
+![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/photo_2020-03-16_21-10-11.jpg)
