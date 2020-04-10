@@ -1,7 +1,7 @@
 # Data-Days-2020
 February and March of 2020.
 Sharif University of Technology, Tehran, Iran.
-## Ranked the 3rd among 121 teams.
+## Ranked the 2nd among 121 teams.
 1153 Contestants|
 121 Teams\
 86 Universities
@@ -11,6 +11,7 @@ Sharif University of Technology, Tehran, Iran.
 The 2020 Data Days Competition held at Sharif university of technology.
 [The website link](https://datadays.sharif.edu)
 [The link to the documentation](https://docs.google.com/document/d/1ov2xxVM1ZBHk2K3RJqDM2A-9xnyHlfh9dpCY5p_F_L8/edit#)
+[The link to the dataset](https://drive.google.com/file/d/14szOHDbSmd17DXn6Iypb_NU5Ck3rktIX/view)
 You are given a dataset of 9 csv files and you are expected to sort adIds that are most likely to be clicked on by a certain user.
 The problem and the datasets are similar to this [kaggle](https://www.kaggle.com/c/outbrain-click-prediction/data) competiton.
 
@@ -20,7 +21,8 @@ You can chceck the jupyter notebook and see the algorithms and preprocessing we 
 Team **Pandas**\
 Milad Soltany (Soltany.m.99@gmail.com)\
 Abbas Omidi  (abbasomidi77@gmail.com)\
-Amirhossein Heidarian (amirhossein4633@gmail.com)\
+Amirhossein Heidarian (amirhossein4633@gmail.com)
+
 
 feel free to reach out to us.
 
@@ -34,5 +36,7 @@ What worked the best was random forest with 400 estimators and max_depth of 15, 
 3. Another notebook with a lot of trials which you probably won't make sense of!
 So I suggest just look at the final notebook :)
 
-Best.
+Best.\
 Team Pandas.
+
+![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/photo_2020-03-16_21-10-11.jpg)
