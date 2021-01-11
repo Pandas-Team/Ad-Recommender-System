@@ -23,7 +23,6 @@ Milad Soltany (Soltany.m.99@gmail.com)\
 Abbas Omidi  (abbasomidi77@gmail.com)\
 Amirhossein Heidarian (amirhossein261077@live.com)
 
-
 feel free to reach out to us.
 
 # What we did.
