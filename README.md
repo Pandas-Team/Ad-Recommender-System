@@ -30,10 +30,8 @@ We tried out many different models and algorithms.\
 What worked the best was random forest with 400 estimators and max_depth of 15, you can check the preproccesings and features we extracted.
 
 ## What you find in this repo
-1. The final notebook.
-2. A notebook with a lot of trials which you probably won't make sense of!
-3. Another notebook with a lot of trials which you probably won't make sense of!
-So I suggest just look at the final notebook :)
+The final notebook which consists of all the codes.
+
 
 Best.\
 Team Pandas.
