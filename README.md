@@ -38,4 +38,4 @@ So I suggest just look at the final notebook :)
 Best.\
 Team Pandas.
 
-![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/photo_2020-03-16_21-10-11.jpg)
+![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Scoreboard.jpg)
