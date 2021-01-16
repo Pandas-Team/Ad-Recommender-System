@@ -37,3 +37,4 @@ Best.\
 Team Pandas.
 
 ![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Scoreboard.jpg)
+.
