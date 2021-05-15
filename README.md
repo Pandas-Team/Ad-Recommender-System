@@ -19,9 +19,9 @@ You can chceck the jupyter notebook and see the algorithms and preprocessing we 
 
 # Our team (March 2020):
 Team **Pandas**\
-Milad Soltany (Soltany.m.99@gmail.com)\
-Abbas Omidi  (abbasomidi77@gmail.com)\
-Amirhossein Heidarian (amirhossein261077@live.com)
+Milad Soltany --- [Linkedin](https://www.linkedin.com/in/milad-soltany/), [Github](https://github.com/miladsoltany) , [Email](mailto:soltany.m.99@gmail.com)\
+Abbas Omidi --- [Linkedin](https://www.linkedin.com/in/abbasomidi77/), [Github](https://github.com/abbasomidi77), [Email](mailto:abbasomidi77@gmail.com)\
+Amirhossein Heydarian ---  [Linkedin](https://www.linkedin.com/in/amirhosseinh77/), [Github](https://github.com/amirhosseinh77), [Email](mailto:amirhossein4633@gmail.com )
 
 feel free to reach out to us.
 
@@ -38,3 +38,11 @@ Team Pandas.
 
 ![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Scoreboard.jpg)
 .
+# recent news
+About a year after the first match in which we succeeded to win second place in the country among more than 130 teams, we realized that we were, in fact, the first team in the country, but the refereeing team was realized this a little late and after announcing the final results.
+
+Watch the relevant video below:
+
+
+https://user-images.githubusercontent.com/61683254/118251061-5d791600-b4bc-11eb-8661-43c52916c5de.mp4
+
