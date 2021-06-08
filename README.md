@@ -48,9 +48,6 @@ A Picture of the Importance of Our Own Features Compared to Pre-Existing Feature
 
 ![3](https://user-images.githubusercontent.com/61683254/121143164-fc8df500-c851-11eb-91bf-779c806a3af3.PNG)
 
-A Number of Algorithms Tested in the Project:
-
-![4](https://user-images.githubusercontent.com/61683254/121143261-1c251d80-c852-11eb-93a3-067de91f3614.PNG)
 
 
 
