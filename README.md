@@ -6,6 +6,9 @@ Sharif University of Technology, Tehran, Iran.
 121 Teams\
 86 Universities
 
+# Abstract
+
+In This Project, We Designed and Coded an Advertising Recommender System. We Tested Many Machine Learning Algorithms, but in the End, We Designed the Final System With the Help of Random Forest and Linear Regression. Also, We Built Several Creative Features to Increase the Accuracy of Our Predictions.
 
 # Introduction
 The 2020 Data Days Competition held at Sharif university of technology.
@@ -31,6 +34,20 @@ What worked the best was random forest with 400 estimators and max_depth of 15, 
 
 ## What you find in this repo
 The final notebook which consists of all the codes.
+
+# Photos of work results
+An Example of Statistical Analysis of the Number of Clicks Based on Various Parameters :
+![1](https://user-images.githubusercontent.com/61683254/121142740-8d180580-c851-11eb-9cb1-dd3f93b6cc53.PNG)
+
+View of One of the Datasets Used to Teach the Model:
+![2](https://user-images.githubusercontent.com/61683254/121142923-b89af000-c851-11eb-9e99-f5cdf22083ef.PNG)
+
+A Picture of the Importance of Our Own Features Compared to Pre-Existing Features in the Dataset:
+![3](https://user-images.githubusercontent.com/61683254/121143164-fc8df500-c851-11eb-91bf-779c806a3af3.PNG)
+
+A Number of Algorithms Tested in the Project:
+![4](https://user-images.githubusercontent.com/61683254/121143261-1c251d80-c852-11eb-93a3-067de91f3614.PNG)
+
 
 
 Best.\
