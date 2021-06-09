@@ -6,10 +6,6 @@ Sharif University of Technology, Tehran, Iran.
 121 Teams\
 86 Universities
 
-# Abstract
-
-In This Project, We Designed and Coded an Advertising Recommender System. We Tested Many Machine Learning Algorithms, but in the End, We Designed the Final System With the Help of Random Forest and Linear Regression. Also, We Built Several Creative Features to Increase the Accuracy of Our Predictions.
-
 # Introduction
 The 2020 Data Days Competition held at Sharif university of technology.
 [The website link](https://datadays.sharif.edu)
