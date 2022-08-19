@@ -1,7 +1,7 @@
 # Data-Days-2020
 February and March of 2020.
 Sharif University of Technology, Tehran, Iran.
-## Ranked the 2nd among 121 teams.
+## Ranked the 1st among 121 teams.
 1153 Contestants|
 121 Teams\
 86 Universities
