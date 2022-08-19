@@ -49,14 +49,3 @@ A Picture of the Importance of Our Own Features Compared to Pre-Existing Feature
 
 Best.\
 Team Pandas.
-
-![Scoreboard](https://github.com/miladsoltany/Data-Days-2020/raw/master/Scoreboard.jpg)
-.
-# recent news
-About a year after the first match in which we succeeded to win second place in the country among more than 130 teams, we realized that we were, in fact, the first team in the country, but the refereeing team was realized this a little late and after announcing the final results.
-
-Watch the relevant video below:
-
-
-https://user-images.githubusercontent.com/61683254/118251061-5d791600-b4bc-11eb-8661-43c52916c5de.mp4
-
